@@ -1,4 +1,4 @@
-### Expo를 이용해서 애플리케이션 개발시 이슈 모음
+#Expo를 이용해서 애플리케이션 개발시 이슈 모음
 
 ### Tried to register two views with the same name RNCSafeAreaProvider
 이슈 발생 : expo install expo-font 이후
