@@ -2,16 +2,16 @@
 
 ## List
 ### Andoriod
-  normal
-  notoserif
-  sans-serif
-  sans-serif-light
-  sans-serif-thin
-  sans-serif-condensed
-  sans-serif-medium
-  serif
-  Roboto
-  monospace
+  |normal|
+  |notoserif|
+  |sans-serif|
+  |sans-serif-light|
+  |sans-serif-thin|
+  |sans-serif-condensed|
+  |sans-serif-medium|
+  |serif|
+  |Roboto|
+  |monospace|
 ### iOS
   San Francisco
   Academy Engraved LET
