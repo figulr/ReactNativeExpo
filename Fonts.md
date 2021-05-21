@@ -2,7 +2,7 @@
 
 ## List
 ### Andoriod
-  |normal|
+  |normal|/n
   |notoserif|
   |sans-serif|
   |sans-serif-light|
