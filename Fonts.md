@@ -317,3 +317,4 @@
   
   ### Reference Links
   1. https://ospfolio.com/two-way-to-change-default-font-family-in-react-native/
+  2. https://www.npmjs.com/package/react-native-responsive-fontsize
