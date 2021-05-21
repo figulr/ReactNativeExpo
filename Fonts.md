@@ -311,3 +311,9 @@
   Zapfino
   
   abracted from "https://github.com/react-native-training/react-native-fonts"
+  
+  ## Applying custom fonts
+  I am studying and still looking for a right method to apply custom fonts. But it is not easy. Pleas give me some comments when you maybe know exactly how man can apply custom fonts at programming a mobile application using react-native and expo.
+  
+  ### Reference Links
+  1. https://ospfolio.com/two-way-to-change-default-font-family-in-react-native/
