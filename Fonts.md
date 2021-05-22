@@ -316,5 +316,6 @@
   I am studying and still looking for a right method to apply custom fonts. But it is not easy. Pleas give me some comments when you maybe know exactly how man can apply custom fonts at programming a mobile application using react-native and expo.
   
   ### Reference Links
-  1. https://ospfolio.com/two-way-to-change-default-font-family-in-react-native/
-  2. https://www.npmjs.com/package/react-native-responsive-fontsize
+  1. https://ospfolio.com/two-way-to-change-default-font-family-in-react-native/ [en]
+  2. https://www.npmjs.com/package/react-native-responsive-fontsize [en]
+  3. https://13akstjq.github.io/reactnative/2019/06/09/reactnative-font.html [kr]
